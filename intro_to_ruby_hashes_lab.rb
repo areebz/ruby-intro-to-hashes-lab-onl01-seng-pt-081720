@@ -22,16 +22,16 @@ monopoly = {:railroads => {
 			:pieces => 4, 
 			:names => {
 				:reading_railroad => {
-					"one_piece_owned" => {}
+					"one_piece_owned" => { }
 				},
 				:pennsylvania_railroad => {
-	        "two_pieces_owned" => {}
+	        "two_pieces_owned" => { }
 				},
 				:b_and_o_railroad => {
-	        "three_pieces_owned" => {}
+	        "three_pieces_owned" => { }
 				},
 				:shortline => {
-        	"four_pieces_owned" => {}
+        	"four_pieces_owned" => { }
 				}
 			}, 
 			:rent_in_dollars => {
