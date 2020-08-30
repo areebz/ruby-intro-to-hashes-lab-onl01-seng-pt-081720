@@ -42,9 +42,6 @@ monopoly = {:railroads => {
 			}
 			}
 		}
-	
-	
-	end
 
 end
 
