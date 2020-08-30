@@ -18,19 +18,19 @@ end
 
 def monopoly_with_third_tier
 monopoly = {:railroads => {
-			:pieces => 4, 
+			:pieces => 3, 
 			:names => {
 				:rent_in_dollars => {
-					"mortgage_value" => "$25"
+					"one_piece_owned" => "$25"
 				},
 				:rent_in_dollars => {
-	        "mortgage_value" => "$50"
+	        "two_pieces_owned" => "$50"
 				},
 				:rent_in_dollars => {
-	        "mortgage_value" => "$100"
+	        "three_pieces_owned" => "$100"
 				},
 				:rent_in_dollars => {
-        	"mortgage_value" => "$200"
+        	"four_pieces_owned" => "$200"
 				}
 			}, 
 			:rent_in_dollars => {
